@@ -1,1 +1,1 @@
-# This Repository Contains my Classes for the HTML5 and CSS3 Curse from the Instituto Federal do Ceará. 
+# This Repository Contains my Classes for the HTML5 and CSS3 Course from the Instituto Federal do Ceará. 
