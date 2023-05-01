@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dynamic Images</title>
+</head>
+<body>
+    <h1>Dynamic Images</h1>
+    <p>In this example, we change the picture size automatically. &copy;</p>
+    <picture>
+        <source media="(max-width: 600px)" srcset="small.jpg">
+        <source media="(max-width: 900px)" srcset="medium.jpg">
+        <img src="large.jpg" alt="Dynamic Image">
+    </picture>
+</body>
+</html>
