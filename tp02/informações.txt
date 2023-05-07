@@ -1,0 +1,36 @@
+-MENU
+
+HOME
+HTML
+CSS
+JAVASCRIPT
+
+-TEXTO PÁGINA HOME
+
+O desenvolvimento de front-end é um dos aspectos mais importantes da criação de aplicativos amigáveis ao usuário para aplicativos móveis e da web. Atualmente, existem muitas opções quando se trata de linguagens para desenvolvimento front-end, cada uma com suas vantagens e desvantagens. HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. CSS é a sigla para Cascading Style Sheets, ou seja, Folhas de Estilo em Cascatas. É uma maneira de dar estilo ao código criado por linguagens como HTML, XML ou XHTML, por exemplo. JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido.
+
+-TEXTO PÁGINA HTML
+
+HTML5 é a quinta e última versão do HTML, sigla de Hypertext Markup Language, uma das primeiras e principais linguagens de marcação da web.O HTML serve, basicamente, para o desenvolvimento de páginas que contenham conteúdos simples, como textos, imagens, áudio, vídeos e etc. Desenvolvido com o objetivo de facilitar a vida daqueles que manipulavam o HTML, ou seja, os(as) desenvolvedores(as) web, o HTML5 apresenta diferenças significativas com relação às suas versões anteriores. A primeira delas é o suporte a áudio e vídeo de alto nível, um atributo que não fazia parte de nenhuma das quatro versões anteriores desta linguagem. Outras diferenças são o suporte a gráficos vetoriais, que até então só poderiam ser usados em conjunto com tecnologias como o Flash, por exemplo. O HTML5 também suporta novos tipos de controles utilizados em formulários, como por exemplo data e hora, e-mail, números, url, telefone e etc. A introdução de alguns elementos também tem grande importância nessas mudanças. Alguns elementos novos são: sumário, tempo, áudio, comando, dados, datalist, entre outros.
+
+-TEXTO PÁGINA CSS
+
+CSS3 é a terceira mais nova versão das famosas Cascading Style Sheets (ou simplesmente CSS), pela qual se define estilos para um projeto web (página de internet). Com efeitos de transição, imagem, imagem de fundo/background e outros, pode-se criar estilos únicos para seus projetos web, alterando diversos aspectos de design no layout da página. A principal função do CSS3 é abolir as imagens de plano/Background de fundo, bordas arredondadas, apresentar transições e efeitos para criar animações de vários tipos, como um simples relógio de ponteiros.Isso se deve aos novos browsers/navegadores que estão chegando com suporte à essa linguagem, como o Google Chrome, Opera, Internet Explorer 9, Safari e Mozilla Firefox. Assim, o CSS3 facilitará o trabalho dos profissionais de front-end e também a utilização de sites pelos usuários. O CSS3 é extremamente capaz de construir animações que impressionam o mais avançado desenvolvedor web, tanto em 2 como em 3 dimensões. Os mais comuns são os efeitos de rotação, movimento e transição.
+
+-TEXTO PÁGINA JAVASCRIPT
+
+JavaScript (frequentemente abreviado como JS) é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma (protótipos, orientado a objeto, imperativo e funcional). Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web. JavaScript permite páginas da Web interativas e, portanto, é uma parte essencial dos aplicativos da web. A grande maioria dos sites usa, e todos os principais navegadores têm um mecanismo JavaScript dedicado para executá-lo.É atualmente a principal linguagem para programação client-side em navegadores web. É também bastante utilizada do lado do servidor através de ambientes como o node.js. Como uma linguagem multiparadigma, o JavaScript suporta estilos de programação orientados a eventos, funcionais e imperativos (incluindo orientado a objetos e prototype-based), apresentando recursos como fechamentos (closures) e funções de alta ordem comumente indisponíveis em linguagens populares como Java e C++.
+
+--LINKS YOUTUBE
+
+HTML
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzPxo7Y6JyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+CSS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/229xfk3EEM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+JAVASCRIPT
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QnLSBuykGxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
