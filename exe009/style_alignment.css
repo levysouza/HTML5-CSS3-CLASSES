@@ -4,7 +4,8 @@ div#div1{
     
     background-color: aquamarine;
     height: 300px;
-    width: 500px;
+    min-width: 300px;
+    max-width: 500px;
     margin: auto;
     padding: 10px;
 }
