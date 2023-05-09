@@ -14,6 +14,7 @@ div#div2{
     height: 100px;
     width: 100px;
     
+    /*vertical and horizontal alignment*/
     position: relative;
     top: 50%;
     left: 50%;
