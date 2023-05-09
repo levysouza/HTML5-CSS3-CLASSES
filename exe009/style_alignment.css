@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+div#div1{
+    
+    background-color: aquamarine;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+div#div2{
+    background-color: darkgrey;
+    height: 100px;
+    width: 100px;
+    
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
