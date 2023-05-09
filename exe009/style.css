@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+header{
+    background-color: aquamarine;
+    height: 100px;
+}
+main{
+    background-color: darkblue;
+    height: 500px;
+}
+footer{
+    background-color: darkolivegreen;
+    height: 50px;
+}
+section{
+    background-color: cornsilk;
+    height: 30px;
+}
+div{
+    background-color: chocolate;
+    height: 40px;
+}
