@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.group-set{
+    margin: auto;
+    max-width: 300px;
+    padding: 10px;
+}
+
+.group-set-button{
+    display: flex;
+    margin: auto;
+    max-width: 300px;
+    padding: 10px;
+
+    flex-direction: row;
+    justify-content: space-around;
+}
+.btn-form{
+    flex-basis: 80px;
+}
+
+input, label {
+    margin: 3px;
+}
+
+legend {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}

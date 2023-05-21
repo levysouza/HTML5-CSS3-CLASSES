@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Formulários</h1>
+    <form action="save.php" method="post">
+        <fieldset class="group-set">
+            <legend>Dados do Login:</legend>
+            <label for="ilogin">Login</label><br>
+            <input type="text" name="login" id="ilogin"><br>
+            <label for="isenha">Senha</label><br>
+            <input type="password" name="senha" id="isenha">
+        </fieldset>
+        <fieldset class="group-set">
+            <legend>Dados Pessoais:</legend>
+            <label for="inascimento">Nascimento</label><br>
+            <input type="date" name="nascimento" id="inascimento"><br>
+
+            <label for="iidade">Idade:</label><br>
+            <input type="number" name="idade" id="iidade" step="1"><br>
+
+            <p>Sexo:</p>
+            <input type="radio" name="sexo" id="isexom" value="M">
+            <label for="isexom">Masculino</label>
+            <input type="radio" name="sexo" id="isexof" value="F">
+            <label for="isexof">Feminino</label>
+        </fieldset>
+        <fieldset class="group-set">
+            <legend>Interesses:</legend>
+            <input type="checkbox" name="ml" id="iml" value="ml">
+            <label for="iml">Machine Learning</label><br>
+            <input type="checkbox" name="dl" id="idl" value="dl">
+            <label for="idl">Deep Learning</label><br>
+            <input type="checkbox" name="ia" id="iia" value="ia">
+            <label for="iia">Inteligência Artificial</label>
+        </fieldset>
+        <fieldset class="group-set">
+            <legend>Habilidades:</legend>
+            <label for="ihab">Selecione:</label><br>
+            <select name="hab" id="ihab">
+                <optgroup label="Básico">
+                    <option value="HTML">HTML</option>
+                    <option value="CSS">CSS</option>
+                    <option value="JAVASCRIPT">JAVASCRIPT</option>
+                </optgroup>
+                <optgroup label="Avançado">
+                    <option value="NodeJS">NodeJS</option>
+                    <option value="Bootstrap">Bootstrap</option>
+                    <option value="React">React</option>
+                </optgroup>
+            </select>
+        </fieldset>
+        <fieldset class="group-set">
+            <legend>Informações Adicionais:</legend>
+            <textarea name="ad" id="iad" cols="30" rows="10">Digite ...</textarea>
+        </fieldset>
+        <fieldset class="group-set-button">
+            <legend>Opções</legend>
+            <input type="submit" value="Enviar" class="btn-form">
+            <input type="reset" value="Limpar" class="btn-form">
+            <input type="button" value="Cancelar" class="btn-form">
+        </fieldset>
+    </form>
+</body>
+</html>
