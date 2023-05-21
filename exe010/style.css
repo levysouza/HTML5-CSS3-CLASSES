@@ -5,7 +5,7 @@ h1{
 }
 
 .container{
-    background-color: darkgray;
+    background-color: #0E608F;
     max-width: 600px;
     padding: 5px;
     margin: auto;
@@ -15,7 +15,7 @@ h1{
 }
 
 .container-wrap{
-    background-color: darkgray;
+    background-color: #0E608F;
     max-width: 600px;
     padding: 5px;
     margin: auto;
@@ -27,7 +27,7 @@ h1{
 
 .container-justify-content
 {
-    background-color: darkgray;
+    background-color: #0E608F;
     max-width: 600px;
     padding: 5px;
     margin: auto;
@@ -39,7 +39,7 @@ h1{
 
 .container-align-items
 {
-    background-color: darkgray;
+    background-color: #0E608F;
     max-width: 600px;
     height: 300px;
     padding: 5px;
@@ -54,7 +54,7 @@ h1{
 
 .container-align-content
 {
-    background-color: darkgray;
+    background-color: #0E608F;
     max-width: 600px;
     height: 300px;
     padding: 5px;
@@ -72,7 +72,7 @@ h1{
     margin: 5px;
     padding: 5px;
     border-radius: 5px;
-    background-color: antiquewhite;
+    background-color: #DBDA71;
     text-align: center;
     border: 1px solid black;
 
