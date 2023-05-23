@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+.quadrado {
+    background-color: darkgrey;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+h1{
+    color: black;
+}
+
+#div01{
+    background-color: aquamarine;
+}
+
+#div02{
+    background-image: linear-gradient(to bottom, red, yellow);
+}
+
+#div03 {
+    background-image: url(img/img01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.bloco {
+    background-color: white;
+    width: 600px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#bloco01{
+    background-image: url(img/img03.jpg);
+    background-position: left top;
+}
+
+#bloco02{
+    background-image: url(img/img03.jpg);
+    background-position: left center;
+}
+
+#bloco03{
+    background-image: url(img/img03.jpg);
+    background-position: right bottom;
+}
+
+#bloco04{
+    background-image: url(img/img03.jpg);
+    background-position: center center;
+}
